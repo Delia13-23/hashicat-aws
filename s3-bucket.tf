@@ -4,5 +4,5 @@ module "s3-bucket" {
   # insert the 5 required variables here
   bucket = "my-s3-bucket"
   acl    = "private"
-  bucket_prefix = ${PREFIX}
+  bucket_prefix = "deliadel"
 }
